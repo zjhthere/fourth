@@ -32,7 +32,7 @@
 //
 #import "ViewController.h"
 #import <CoreGraphics/CoreGraphics.h>
-@interface ViewController ()sdfsfsdfsdf 
+@interface ViewController ()sdfsfsdfsdf
 @property (nonatomic, strong) UIImageView *v1;
 @property (nonatomic, strong) UIImageView *v2;
 @property (nonatomic, strong) CALayer *frontLayer;
@@ -45,7 +45,7 @@
 @property (nonatomic, strong) UIImageView * frontView;
 @property (nonatomic, strong) UIImageView * backView;
 @end
-
+DISPATCH_QUEUE_SERIAL_WITH_AUTORELEASE_POOL
 @implementation ViewController
 
 - (void)viewDidLoad {
