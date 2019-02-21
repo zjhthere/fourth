@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FF08DC9920301E7200279EC2 /* sdgfdsfh.m in Sources */ = {isa = PBXBuildFile; fileRef = FF08DC9820301E7200279EC2 /* sdgfdsfh.m */; };
+		FF41A607221EE00C00C3E4C7 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = FF41A606221EE00C00C3E4C7 /* Model.m */; };
 		FF57A011201041FA00F03B74 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FF57A010201041FA00F03B74 /* AppDelegate.m */; };
 		FF57A014201041FA00F03B74 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF57A013201041FA00F03B74 /* ViewController.m */; };
 		FF57A017201041FA00F03B74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF57A015201041FA00F03B74 /* Main.storyboard */; };
@@ -40,6 +41,8 @@
 /* Begin PBXFileReference section */
 		FF08DC9720301E7200279EC2 /* sdgfdsfh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sdgfdsfh.h; sourceTree = "<group>"; };
 		FF08DC9820301E7200279EC2 /* sdgfdsfh.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sdgfdsfh.m; sourceTree = "<group>"; };
+		FF41A605221EE00C00C3E4C7 /* Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		FF41A606221EE00C00C3E4C7 /* Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
 		FF57A00C201041FA00F03B74 /* Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF57A00F201041FA00F03B74 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FF57A010201041FA00F03B74 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -121,6 +124,8 @@
 				FF57A01E201041FA00F03B74 /* main.m */,
 				FF08DC9720301E7200279EC2 /* sdgfdsfh.h */,
 				FF08DC9820301E7200279EC2 /* sdgfdsfh.m */,
+				FF41A605221EE00C00C3E4C7 /* Model.h */,
+				FF41A606221EE00C00C3E4C7 /* Model.m */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
@@ -282,6 +287,7 @@
 				FF57A01F201041FA00F03B74 /* main.m in Sources */,
 				FF08DC9920301E7200279EC2 /* sdgfdsfh.m in Sources */,
 				FF57A011201041FA00F03B74 /* AppDelegate.m in Sources */,
+				FF41A607221EE00C00C3E4C7 /* Model.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
